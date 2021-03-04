@@ -5,7 +5,7 @@
       :img-src="image"
       img-alt="Card image"
       img-top
-      img-height="250px"
+      img-height="450px"
       tag="article"
       class="overflow-hidden"
       align="center"
